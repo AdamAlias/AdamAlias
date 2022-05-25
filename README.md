@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdamAlias
-- 👀 I’m currently interested in Front-end Web Development.
-- 🌱 I’m currently self-learning HTML, CSS and Javascript
+- 👀 I’m currently a software engineer.
+- 🌱 I’m currently self-learning HTML, CSS and Javascript, C# & .NET
 - 💞️ I’m looking to collaborate on - 
 - 📫 Reach me @ adamalias996@gmail.com
 
