@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AdamAlias
 - 👀 I’m currently a software engineer.
-- 🌱 I’m currently self-learning HTML, CSS and Javascript, C# & .NET
-- 💞️ I’m looking to collaborate on - 
+- 🌱 I’m currently a self-taught coder
 - 📫 Reach me @ adamalias996@gmail.com
 
 <!---
